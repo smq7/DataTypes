@@ -1,6 +1,6 @@
 'use strict';
 
-const i = 5;
+const i = 6;
 const f = 10.3;
 const s = 'Hello';
 const b = true;
